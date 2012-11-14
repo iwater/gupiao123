@@ -14,16 +14,17 @@
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="res/images/webapp/logo72.png" />
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="res/images/webapp/logo114.png" />
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="res/images/webapp/logo144.png" />
-<script src="scripts/lib/pic_settings.js"></script>
 </head>
 <body>
 <div class="wui-Workspace" id="workSpace">
   <article class="warp" id="iStockApp"></article>
   <nav id="abFuncBox"></nav>
   <div id="pop_tips" class="pop_tips pop_slow"></div>
-  <div id="loadingDiv" class="loading hide"></div>
+  <div id="loadingDiv" class="loading icon-loading hide"></div>
 </div>
+<script>
+window.apiServer = 'http://api.netgen.com.cn:3721/webapp/v1/';
+</script>
 <script src="scripts/build.js"></script>
-<!--script src="scripts/out.js"></script-->
 </body>
 </html>
