@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.example"
+        id        = "cn.gupiao123.app"
         versionCode="10" 
         version   = "1.0.0">
 
@@ -14,7 +14,7 @@
     </description>
 
     <author href="https://gupiao123.cn" email="iwater@gmail.com">
-        iwater
+        股票行情资讯
     </author>
     
     <icon src="res/images/webapp/logo57.png" />
