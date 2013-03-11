@@ -23,7 +23,7 @@
     <preference name="webviewbounce" value="false" />
     <preference name="prerendered-icon" value="true" />
     <preference name="detect-data-types" value="false" />
-    <preference name="phonegap-version" value="2.3.0" />
+    <preference name="phonegap-version" value="2.4.0" />
     
     <icon src="res/images/webapp/logo57.png" />
     <icon src="res/images/webapp/logo57.png" width="57" height="57" />
@@ -35,7 +35,7 @@
 	<icon src="res/images/webapp/logo114.png" gap:platform="android" gap:density="hdpi" />
 	<icon src="res/images/webapp/logo144.png" gap:platform="android" gap:density="xhdpi" />
 	
-	<gap:splash src="res/images/webapp/init.jpg" />
-    <gap:splash src="res/images/webapp/init.jpg" width="640" height="960" />
+	<gap:splash src="res/images/webapp/Default@2x.jpg" />
+    <gap:splash src="res/images/webapp/Default-568h@2x.jpg" width="640" height="960" />
 
 </widget>
