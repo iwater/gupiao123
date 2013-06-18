@@ -23,7 +23,7 @@
   <preference name="webviewbounce" value="false" />
   <preference name="prerendered-icon" value="true" />
   <preference name="detect-data-types" value="false" />
-  <preference name="phonegap-version" value="2.3.0" />
+  <preference name="phonegap-version" value="2.7.0" />
   
   <icon src="res/images/webapp/logo57.png" />
   <icon src="res/images/webapp/logo57.png" width="57" height="57" />
